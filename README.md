@@ -1,80 +1,60 @@
-#
- <p align="center">Hi 👋, I'm Mahmoud Ramdan | Tech Portfolio ✨</p>
-<h3 align="center">A passionate Data Engineer from Egypt</h3>
+<div align="center">
+ 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Mahmoud%20Ramdan&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Data%20Engineer%20%7C%20BI%20Developer&descAlignY=62&descSize=17" />
+
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Data+Pipelines+%7C+ETL+%7C+Data+Warehousing;Apache+Spark+%7C+Hadoop+%7C+Kafka+%7C+Airflow;SQL+%7C+Python+%7C+Data+Modeling+%7C+Big+Data;AWS+%7C+Azure+%7C+GCP+Data+Engineer;From+Raw+Data+%E2%86%92+Scalable+Data+Systems)](https://git.io/typing-svg)
+ <p align="center">
+ <a href="https://github.com/mahmoudel-awam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+ <a href="https://www.linkedin.com/in/mahmoudelawam/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+ <!-- <a href="https://www.instagram.com/youssifhussein_/">
+ <img src="http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+ <img src="https://komarev.com/ghpvc/?username=mahmoudel-awam&style=for-the-badge&color=7C3AED&label=VIEWS" alt="" />
+ <img src="https://img.shields.io/github/stars/mahmoudel-awam?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="" />
+ </p>
+</div>
+
+
+<h2 align="center">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+ Skills & Tools
+</h2>
 
 <div align="center">
+ <img src="https://skillicons.dev/icons?i=python,mysql,docker,aws,azure,linux,ubuntu,postman,git,github,notion,&perline=" />
+</div>
 
-<pre>
-███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗ ██████╗ ██╗   ██╗██████╗ 
-████╗ ████║██╔══██╗██║  ██║████╗ ████║██╔═══██╗██║   ██║██╔══██╗
-██╔████╔██║███████║███████║██╔████╔██║██║   ██║██║   ██║██║  ██║
-██║╚██╔╝██║██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║   ██║██║  ██║
-██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ 
+<h2 align="center">
+ <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+ Contributions
+ <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
 
-███████╗██╗         █████╗ ██╗    ██╗ █████╗ ███╗   ███╗
-██╔════╝██║        ██╔══██╗██║    ██║██╔══██╗████╗ ████║
-█████╗  ██║        ███████║██║ █╗ ██║███████║██╔████╔██║
-██╔══╝  ██║        ██╔══██║██║███╗██║██╔══██║██║╚██╔╝██║
-███████╗███████╗   ██║  ██║╚███╔███╔╝██║  ██║██║ ╚═╝ ██║
-</pre>
+<div align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoudel-awam&theme=github_dark" width="33%" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudel-awam&theme=github_dark" width="33%" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoudel-awam&theme=github_dark" width="33%" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%94%A5;Python+Developer+%F0%9F%90%8D;ETL+Pipeline+Builder+%E2%9A%99%EF%B8%8F;Turning+Raw+Data+into+Gold+%F0%9F%92%A1" alt="Typing SVG" />
 
+<h2 align="center">
+ GitHub Activity
+</h2>
+
+<div align="center">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudel-awam/mahmoudel-awam/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoudel-awam/mahmoudel-awam/output/github-contribution-grid-snake.svg"
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahmoudel-awam/mahmoudel-awam/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudel-awam&theme=github_dark" width="100%" />
 
 </div>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Focus-Data%20Engineering-58ffdb?style=for-the-badge&logo=apache-spark&logoColor=black" />
- <img src="https://img.shields.io/badge/Main%20Language-Python-00b8ff?style=for-the-badge&logo=python&logoColor=white" />
- 
+ <i>Thanks for visiting, let's build something intelligent together.</i>
 </p>
 
----
-
-###
-
-<h3 align="left">• 👩‍💻 About Me :</h3>
-
-<table align="center" border="0">
- <tr>
- <td width="55%" style="vertical-align: top; border: none;">
- <!-- <h3 align="left">• 👩‍💻 About Me :</h3> -->
- 
- <p align="left"> 🔭 I’m a graduate of Computer Sciences | Obour Institutes .<br><br> 🌱 I’m currently working Data Engineer.<br><br> 💬 Ask me about Big Data . </p>
- 
-###
-<!-- <h3 align="left">• 👩‍💻 Connect With Me :</h3> -->
-
- </tr>
-</table>
-
----
-
-### 
-<h3 align="left">• 🛠️ Tech Stack & Tools :</h3>
-<p align="center">
- <img src="https://skillicons.dev/icons?i=python,mysql,aws,docker,postman,ubuntu,ai,php,laravel,html,css,bootstrap,git,github,notion&theme=dark" />
-</p>
-
-<p align="center">
- <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
- <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
- <!-- <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> -->
- <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black" />
-</p>
-
----
-
-### 
-<h3 align="left">• 👩‍💻 Connect With Me :</h3>
-<br>
-<div align="left">
- <a href="https://www.linkedin.com/in/mahmoudelawam/" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo" />
- </a>
- <a href="https://www.instagram.com/mahmoud_r_soliman/" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo" />
- </a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
